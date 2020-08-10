@@ -7,14 +7,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>爱德华</h1>
+      <p><b>中二少年,期待第三次冲击</b></p>
+      <p><b>不知名cv战士</b></p>
+      <p><b>邮箱：aidup@qq.com</b></p>
+      <p><b>博客：<a href="blog.aidup.top"target="-blank">blog.aidup.top</a></b></p>
     </td>
     <td width="25%">
-      <img src="/EC3360F75168F7734D64776BA3E9E855.jpg" width="100%">      % 插入证件照代码
+      <img src="/EC3360F75168F7734D64776BA3E9E855.jpg" width="100%">      
     </td>
   </tr>
 </table>
