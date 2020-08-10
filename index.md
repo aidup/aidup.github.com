@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/aidup/aidup.github.com/edi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
   <table border="0">
   <tr>
-    <td>
+    <td width="100%">
   <?php
         echo "Hello world!";
     ?>
