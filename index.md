@@ -4,11 +4,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   <table border="0">
   <tr>
     <td width="100%">
-      <p>
-  <?php
-        echo "Hello world!";
-    ?>
-      </p>
+      <p>        echo "Hello world!";      </p>
       </td>
   </tr>
 <table border="0">
