@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <p><b>中二少年,期待第三次冲击</b></p>
       <p><b>不知名cv战士</b></p>
       <p><b>邮箱：aidup@qq.com</b></p>
-      <p><b>博客：<a href="blog.aidup.top"target="-blank">blog.aidup.top</a></b></p>
+      <p><b>博客：</b></p><a href="blog.aidup.top"target="_blank">blog.aidup.top</a>
     </td>
     <td width="25%">
       <img src="/EC3360F75168F7734D64776BA3E9E855.jpg" width="100%">      
